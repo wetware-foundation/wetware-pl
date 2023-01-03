@@ -12,9 +12,14 @@ Witamy w naszym cotygodniowym spotkaniu online na temat integracji człowieka i 
 Jesteśmy entuzjastami sztucznej inteligencji i chcielibyśmy zaprosić Cię do wzięcia udziału w naszej cyklicznej konferencji dotyczącej integracji człowieka i sztucznej inteligencji. 
 
 
+**jeśli jedno szkolenie może sprawia, że podniesiesz wiedzę i zysk w firmie to jakie korzyści może przynieść ciągłe szkolenie Twojego zespołu?**
+ 
+
 ## wetware = human +  technology
 
 "It's not enough to equip your team with the best technology. It is also necessary to prepare people to be able to use it"
+
++ if one training can make you increase knowledge and profit in the company, what benefits can continuous training of your team bring?
 
 + Transfer the technology, that's the right answer.
 Many companies just buy the technology without complaining about the knowledge required to operate it.
