@@ -127,8 +127,7 @@ Koszt dostępu to 900PLN/rok za poniższe
 
 intensywny program na cały rok na żywo!
 
-Technologia zmienia się tak szybko, że aby nadążyć nie wystarczy dostęp do szkoleń offline, 
-jako jedyni oferujemy spotkania na żywo w cenie materiałów offline, nagranych nieraz kilka lat temu, zde3aktualizowanych, 
+Technologia zmienia się tak szybko, że aby nadążyć nie wystarczy dostęp do szkoleń offline, jako jedyni oferujemy spotkania na żywo w cenie materiałów offline...
 
 My działamy tu i teraz!
 
