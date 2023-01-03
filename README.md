@@ -12,7 +12,7 @@ Witamy w naszym cotygodniowym spotkaniu online na temat integracji człowieka i 
 Jesteśmy entuzjastami sztucznej inteligencji i chcielibyśmy zaprosić Cię do wzięcia udziału w naszej cyklicznej konferencji dotyczącej integracji człowieka i sztucznej inteligencji. 
 
 
-**jeśli jedno szkolenie może sprawia, że podniesiesz wiedzę i zysk w firmie to jakie korzyści może przynieść ciągłe szkolenie Twojego zespołu?**
+**jeśli jedno szkolenie sprawi, że podniesiesz wiedzę i zysk w firmie to jakie korzyści może przynieść ciągłe szkolenie Twojego zespołu?**
  
 
 ## wetware = human +  technology
