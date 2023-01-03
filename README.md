@@ -1,5 +1,10 @@
 # [wetware-pl](https://www.wetware.pl)
+
 wetware.pl - cotygodniowe spotkania entuzjastów integracji człowieka i maszyn
+
+Oferujemy chętnym zespołoom organizacjom i specjalistom przejście przez te burzliwe i zmienne czasy suchą nogą.
+Rok intensywnych spotkań, szkoleń i warsztatów to szansa, która się nie powtórzy!
+Warto skorzystać do dostępu do unikalnej wiedzy i społeczności już dziś!
 
 
 Witamy w naszym cotygodniowym spotkaniu online na temat integracji człowieka i sztucznej inteligencji!
@@ -8,9 +13,12 @@ Jesteśmy entuzjastami sztucznej inteligencji i chcielibyśmy zaprosić Cię do 
 
 
 
+
 ## Konferencja
 
-+ Raz w miesiącu
++ raz w miesiącu
++ 1 dniowa konferenecja online
++ 5 prelekcji
 
 Konferencja odbywa się raz w miesiącu i obejmuje prezentacje i dyskusje na temat nowych trendów w sztucznej inteligencji, a także umożliwia uczestnikom wymianę wiedzy i doświadczeń. 
 
@@ -21,7 +29,8 @@ Dla każdego kto weźmie udział w konferencji otwierają się nowe możliwości
 
 ## Szkolenia
 
-+ Cotygodniowe
++ raz w tygodniu
++ 2 godziny
  
 Szkolenia podnoszące kwalifikacje i wiedzę z zakresu wetware
 
@@ -41,35 +50,20 @@ Będziesz miał okazję dowiedzieć się jak AI jest stosowane w branży i jak m
 - Wykłady od ekspertów z dziedziny integracji człowieka i maszyn
 
 
-#### Merytoryczne wsparcie w społeczności
+### Merytoryczne wsparcie w społeczności
 
 - Dyskusja w grupie, w celu wymiany pomysłów i doświadczeń
 - Przykłady realizacji projektów wykorzystujących sztuczną inteligencję
 - Przegląd najlepszych praktyk w zakresie integracji człowieka i maszyn
 
 
-### Konto premium
-
-Konto premium pozwala na dostęp do najnowszych informacji, niedostępnych w mediach.
-
-Koszt dostępu to 200PLN/rok
-
-W cenie otrzymasz dostęp do wszystkich prezentacji oraz paneli dyskusyjnych z udziałem ekspertów z dziedziny sztucznej inteligencji. 
-Dodatkowo zapewniamy forum dyskusyjne oraz udział warsztatach dotyczących wdrożenia w Twojej organizacji i projektach.
-
-Jeśli masz jakieś pytania lub uwagi, prosimy o kontakt.
-
-Bardzo się cieszymy, że będziesz uczestnikiem naszej cyklicznej konferencji!
-
-Pozdrawiamy,
-Zespół Wetware.pl
 
 
 
 ## Warsztaty 
 
-+ co tydzień dla 3 osób
-
++ raz w roku dla Twojego zespołu, 3 wybranych przez Ciebie osób
++ data wyznaczana indywidualnie, decyduje kolejność zgłoszeń
 
 Nasze warsztaty pomogą Państwu w zrozumieniu, jak integracja człowieka i maszyny oraz sztuczna inteligencja mogą działać razem, aby ulepszyć Państwa firmę.
 
@@ -78,13 +72,15 @@ Celem naszych warsztatów jest pomoc Państwu w zrozumieniu zalet i wad związan
 Nasz warsztat trwać będzie 2 godziny i składać się będzie z prezentacji, sesji pytań i odpowiedzi oraz modelu symulacyjnego, który pomógł Państwu w zrozumieniu wpływu integracji człowieka i maszyny na Państwa biznes.
 
 
+
 Dziękujemy za zainteresowanie naszymi warsztatami.
 
 
 
 ## Konsultacje
 
-+ indywidualnie 1h z wyprzedzeniem 3 dniowym
++ indywidualnie 1h 
++ planowane z wyprzedzeniem tygodniowym
 
 
 Witamy w ofercie indywidualnych konsultacji online na temat integracji człowieka i maszyn oraz sztucznej inteligencji.
@@ -106,5 +102,41 @@ Nasza sesja obejmuje:
 - Przegląd najlepszych praktyk w zakresie tworzenia i wdrażania rozwiązań
 
 
+
+## Tematy 
+
+Tematy poruszane w ramach naszych szkoleń, warsztatów i konferencji:
+
++ rozwiązania sztucznej inteligencji do wykonywania bieżących zadań w firmie
++ spospoby wdrożenia
++ research & development w oparciu o algorytmy
++ jakie istnieją interesujące bazy danych i publikacje i do których warto mieć dostęp
+
+
+
+
+# Konto premium
+
+Koszt dostępu to 900PLN/rok za poniższe
+
++ 1 godzina indywidualnej konsultacji
++ co-tygodniowe szkolenia
++ co-miesięczne 1 dniowe konferencje, eksperci z branży IT, AI, ML, 5G, ...
++ co-roczne warsztaty dla Twojego zespołu, dla 3 wybranych przez Ciebie osób termin, decyduje kolejność zgłoszeń.
++ dostęp do grupy entuzjastów online na discord
+
+intensywny program na cały rok na żywo!
+
+Konto premium pozwala na dostęp do najnowszych informacji, niedostępnych w mediach.
+
+W cenie otrzymasz dostęp do wszystkich prezentacji oraz paneli dyskusyjnych z udziałem ekspertów z dziedziny sztucznej inteligencji. 
+Dodatkowo zapewniamy forum dyskusyjne oraz udział warsztatach dotyczących wdrożenia w Twojej organizacji i projektach.
+
+Jeśli masz jakieś pytania lub uwagi, prosimy o kontakt.
+
+Bardzo się cieszymy, że będziesz uczestnikiem naszej cyklicznej konferencji!
+
+Pozdrawiamy,
+Zespół Wetware.pl
 
 
