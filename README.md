@@ -18,12 +18,25 @@ Dla każdego kto weźmie udział w konferencji otwierają się nowe możliwości
 
 ## Korzyści
 
-Spotkanie to jest stworzone dla specjalistów z branży IT, aby zdobyć wiedzę na temat technologii AI i jej zastosowania w codziennej pracy.
+Oferujemy cotygodniowe spotkania online dla founderów i specjalistów z branży IT, aby zdobyć wiedzę na temat technologii AI i jej zastosowania w codziennej pracy.
+
+Nasze spotkania są nastawione na współpracę między ludźmi i maszynami, a także sztuczną inteligencją, a także na tworzenie i dostarczanie rozwiązań, które pomagają zwiększyć wydajność i umożliwiają wdrażanie wetware w zautomatyzwoanych usługach zastępujących człowieka.
 
 Dostarczymy ci wiedzy i narzędzi do tworzenia innowacyjnych i wspierających produktów i usług. 
 
-Będziesz miał okazję dowiedzieć się jak AI jest stosowane w branży i jak można je wykorzystać w swoich projektach.
+Będziesz miał okazję dowiedzieć się jak AI jest stosowane w branży i jak można je wykorzystać we własnych projektach.
 
+### Dostęp do najnowszych informacji z branży
+
+- Przegląd najnowszych technologii z zakresu sztucznej inteligencji i ich zastosowania
+- Wykłady od ekspertów z dziedziny integracji człowieka i maszyn
+
+
+#### Merytoryczne wsparcie
+
+- Dyskusja w grupie, w celu wymiany pomysłów i doświadczeń
+- Przykłady realizacji projektów wykorzystujących sztuczną inteligencję
+- Przegląd najlepszych praktyk w zakresie integracji człowieka i maszyn
 
 
 ## Konto premium
