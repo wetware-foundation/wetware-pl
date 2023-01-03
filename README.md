@@ -12,7 +12,17 @@ Witamy w naszym cotygodniowym spotkaniu online na temat integracji człowieka i 
 Jesteśmy entuzjastami sztucznej inteligencji i chcielibyśmy zaprosić Cię do wzięcia udziału w naszej cyklicznej konferencji dotyczącej integracji człowieka i sztucznej inteligencji. 
 
 
+## wetware = human +  technology
 
+"It's not enough to equip your team with the best technology. It is also necessary to prepare people to be able to use it"
+
++ Transfer the technology, that's the right answer.
+Many companies just buy the technology without complaining about the knowledge required to operate it.
+
++ Technology purchase contracts must include technology transfer.
+No where you will find any teaching or learning school for the same
+
++ The people in an organization should be well equipped to handle the best technology, the people is worth 100 times more than the technology. 
 
 ## Konferencja
 
