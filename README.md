@@ -19,7 +19,7 @@ Jesteśmy entuzjastami sztucznej inteligencji i chcielibyśmy zaprosić Cię do 
 
 "It's not enough to equip your team with the best technology. It is also necessary to prepare people to be able to use it"
 
-+ if one training can make you increase knowledge and profit in the company, what benefits can continuous training of your team bring?
++ if one training can increase knowledge and profit in the company, what benefits can continuous training of your team bring?
 
 + Transfer the technology, that's the right answer.
 Many companies just buy the technology without complaining about the knowledge required to operate it.
