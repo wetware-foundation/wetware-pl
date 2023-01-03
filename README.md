@@ -1,4 +1,4 @@
-# wetware-pl
+# [wetware-pl](https://www.wetware.pl)
 wetware.pl - cotygodniowe spotkania entuzjastów integracji człowieka i maszyn
 
 
