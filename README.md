@@ -2,8 +2,10 @@
 wetware.pl - cotygodniowe spotkania entuzjastów integracji człowieka i maszyn
 
 
+Witamy w naszym cotygodniowym spotkaniu online na temat integracji człowieka i sztucznej inteligencji!
 
 Jesteśmy entuzjastami sztucznej inteligencji i chcielibyśmy zaprosić Cię do wzięcia udziału w naszej cyklicznej konferencji dotyczącej integracji człowieka i sztucznej inteligencji. 
+
 
 
 ## Konferencja
@@ -13,6 +15,16 @@ Konferencja odbywa się co tydzień i obejmuje prezentacje i dyskusje na temat n
 Zapraszamy Cię do wzięcia udziału w naszej konferencji.
 
 Dla każdego kto weźmie udział w konferencji otwierają się nowe możliwości kooperacji.
+
+## Korzyści
+
+Spotkanie to jest stworzone dla specjalistów z branży IT, aby zdobyć wiedzę na temat technologii AI i jej zastosowania w codziennej pracy.
+
+Dostarczymy ci wiedzy i narzędzi do tworzenia innowacyjnych i wspierających produktów i usług. 
+
+Będziesz miał okazję dowiedzieć się jak AI jest stosowane w branży i jak można je wykorzystać w swoich projektach.
+
+
 
 ## Konto premium
 
