@@ -159,3 +159,24 @@ Pozdrawiamy,
 Zespół Wetware.pl
 
 
+
+
+
+Andrzej Sobczak włożył dużo pracy w przygotowanie kolejnej edycji mapy rozwiązań określanych mianem #HiperAutomatyzacja. Możliwe, że o części z kategorii nawet nie słyszeliście, ale o niektórych usłyszycie wcześniej niż wam się wydaje. Coraz więcej firm rozgląda się za rozwiązaniami, które pozwalają automatyzować wybrane, powtarzalne i czasochłonne procesy, zadania, prace. 
+
+np. RPA (ang. Robotic Process Automation) do odpowiedzi na życzenia świąteczne, gdzie automat wysyła klasyczne "Dziękuję i Wzajemnie!" 😜 A jeśli niektórzy z Was, dostali inne życzenia, to znaczy, że trafili na jakiś warunek reguły w workflow (silnika BMPN, też obszar automatyzacji), gdzie Sztuczna Inteligencja (też obszar automatyzacji - a właściwie w tym przypadku kilka warunków) spersonalizowało wam życzenia. Czyli przeanalizowało co tam publikujecie na Facebooku i jak potrafiło coś "wywnioskować", to dodało jakąś dygresję. 
+
+Oczywiście firmy mogą używać RPA w bardziej użytecznych celach. Jak np. przetwarzanie mejli, faktur, załączników, uruchamianie analiz, raportów, przetwarzanie danych, etc. Można się pokusić o zbudowanie chatbota, albo voicebota, który odpowiada na często zadawane pytania przez klientów, zakładając, że wykorzystamy np. moduł Sztucznej Inteligencji - AI. 
+
+Celem zestawienia nie jest przygotowanie mapy wszystkich rozwiązań na rynku dotyczących #RPA #Chaboty #Voiceboty #ProcessMining #BPMS #OCR #LowCode #NoCode, ale tych które są dostarczane przez polskie podmioty (lub mają związki z Polską - np. założycieli, działa BR) albo są topowe w raportach Gartnera / Forrestera.
+
+Mapa dostawców HiperAutomatyzacji 2022 - perspektywa światowa i polska | Robonomika - Robotyzacja biznesu i jej okolice
+
+https://robonomika.pl/mapa-dostawcow-hiperautomatyzacji-2022-perspektywa-swiatowa-i-polska
+
+
+Konwersatoria.pl
+
+https://robonomika.pl/startuje-nowa-inicjatywa-cykl-konwersatoriow-okragly-stol-demokratyzacji-it-w-skali-enterprise
+
+
