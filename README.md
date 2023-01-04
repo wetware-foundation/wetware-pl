@@ -177,9 +177,53 @@ Do zobaczenia w klubie!
 
 https://forms.office.com/pages/responsepage.aspx?id=W2-sAKi_Gky1RgrwWoNIsTbSVNgJFbBPiy-lLY-Ot8BUM1dNRjM5SU5GWlM2SlZJMEcwQVhCUU5UOC4u
 
+[Low Code Mastermind Club](https://forms.office.com/pages/responsepage.aspx?id=W2-sAKi_Gky1RgrwWoNIsTbSVNgJFbBPiy-lLY-Ot8BUM1dNRjM5SU5GWlM2SlZJMEcwQVhCUU5UOC4u)
+
+> ![](https://lists.office.com/Images/00ac6f5b-bfa8-4c1a-b546-0af05a8348b1/d854d236-1509-4fb0-8b2f-a52d8f8eb7c0/T3WMF39INFZS6JVI0G0AXBQNT8/bf012fb3-8a84-4be9-b9af-ce6007d98b60)
+> 
+> Low Code Mastermind Club
+> 
+> Low Code Mastermind Club to coś znacznie więcej niż społeczność. To przestrzeń, która ma zrzeszać entuzjastów, ekspertów jak i również początkujących, dopiero wchodzące w tą branże osoby.  
+>   
+> Startujemy od zera zaczynając od rozwiązań Microsoft Power Platform.  
+>   
+> Jeśli jesteś zainteresowany rozwojem swoich umiejętności w dziedzinie technologii low-code lub szukasz miejsca, w którym możesz nawiązać cenne kontakty, skorzystać i rozwijać bazę wiedzy oraz gotowych rozwiązań z innymi entuzjastami tej branży, to Low Code Mastermind Club jest dla ciebie!  
+>   
+> Nie czekaj i zapisz się na listę oczekujących! Wypełnij formularz, aby być na bieżąco i stopniowo poznawać „karty”, które będą odkrywane.  
+>   
+> Do zobaczenia w klubie!
+> 
+> Immersive Reader in Microsoft Forms allows you to hear the text of a form title and questions read out loud while following along. You can find the Immersive Reader button next to form title or questions after activating this control. You can also change the spacing of line and words to make them easier to read, highlight parts of speech and syllables, select single words or lines of words read aloud, and select language preferences.
+> 
+> Required
+> 
+> 1.Imię i NazwiskoRequired to answer. Single line text.
+> 
+> 2.Adres e-mailRequired to answer. Single line text.
+> 
+> 3.W technologiach Low-CodeRequired to answer. Single choice.
+> 
+> Dopiero zaczynam
+> 
+> Jestem początkujacy
+> 
+> Jestem średniozaawansowany
+> 
+> Jestem ekspertem
+> 
+> 4.Podaj platformy Low-Code które znasz i z których korzystaszRequired to answer. Single line text.
+> 
+> 5.Branża w której pracujeszSingle line text.
+> 
+> 6.Jeżeli chcesz się podzielić swoimi rozważaniami na temat pomysłu napisz kilka słów lub po prostu napisz coś o sobie :)Multi Line Text.
+> 
+> 7.Oświadczam, że wyrażam zgodę na przetwarzanie przez DeltaPi Consulting Damian Pajor mojego adresu e-mail w celu kontaktu bezpośredniego.Required to answer. Single choice.
+> 
+> Wyrażam zgodę
 
 
-## Robonomika
+
+### Robonomika
 
 Andrzej Sobczak włożył dużo pracy w przygotowanie kolejnej edycji mapy rozwiązań określanych mianem #HiperAutomatyzacja. Możliwe, że o części z kategorii nawet nie słyszeliście, ale o niektórych usłyszycie wcześniej niż wam się wydaje. Coraz więcej firm rozgląda się za rozwiązaniami, które pozwalają automatyzować wybrane, powtarzalne i czasochłonne procesy, zadania, prace. 
 
