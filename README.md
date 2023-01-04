@@ -168,6 +168,22 @@ Inicjatywa wymaga zbudowania szerokiego frontu organizacji skłonnych podejść 
 przypomina to inicjatywę, w której brakuje lidera (rozpoznawalnego dostawcy rozwiązań) umiejącego otoczyć się wianuszkiem skutecznych partnerów https://www.linkedin.com/company/the-open-insurance-initiative-opin/  -> wetware.pl
 
 
+The Open Insurance Think Tank OPIN is a community led project aiming to drive transformational change in how personal customers interact with financial services.
+
+Driving Innovation
+Fueling InsurTech growth and enabling developers to build awesome integrations with insurers APIs whose role is quickly evolving.
+
+An open standard
+Promoting the idea of free and open APIs in insurance and charting the path for the creation of a detailed framework for how an Open API Standard could be designed and delivered.
+
+The Power of Shared Data
+Data is valuable to the consumer, to the companies that own it and to the firms that apply their technologies to it.
+We aim to provide the InsurTech community, developers and a multitude of third parties the capacity to securely integrate their applications with insurers data through open APIs.
+Insurers will more readily be able to experiment, collaborate and leverage innovative solutions and business models.
+The overarching emphasis of this initiative is the development of ever more sophisticated utilities providing customers with transformative experience through cheaper and highly accessible products.
+
+
+
 przydałaby się fundacja, która nawiąże ciekawe współprace i na ich mocy będzie w stanie odpowiednio animować kolejne działania środowiska - raporty, analizy, PoCe, opracowywanie i dzielenie się dobrymi praktyka oraz osiąganymi, przez członków (firmy) -> konsorcjum33.pl
 
 
