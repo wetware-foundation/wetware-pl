@@ -158,9 +158,28 @@ Bardzo się cieszymy, że będziesz uczestnikiem naszej cyklicznej konferencji!
 Pozdrawiamy,
 Zespół Wetware.pl
 
+## Konwersatoria.pl
+
+
+### Low Code Mastermind Club
+
+to coś znacznie więcej niż społeczność. To przestrzeń, która ma zrzeszać entuzjastów, ekspertów jak i również początkujących, dopiero wchodzące w tą branże osoby.
+
+Startujemy od zera zaczynając od rozwiązań Microsoft Power Platform.
+
+Jeśli jesteś zainteresowany rozwojem swoich umiejętności w dziedzinie technologii low-code lub szukasz miejsca, w którym możesz nawiązać cenne kontakty, skorzystać i rozwijać bazę wiedzy oraz gotowych rozwiązań z innymi entuzjastami tej branży, to Low Code Mastermind Club jest dla ciebie!
+
+Nie czekaj i zapisz się na listę oczekujących! Wypełnij formularz, aby być na bieżąco i stopniowo poznawać „karty”, które będą odkrywane.
+
+Do zobaczenia w klubie!
+
+#microsoft #powerplatform #lcmc #lowcode #community
+
+https://forms.office.com/pages/responsepage.aspx?id=W2-sAKi_Gky1RgrwWoNIsTbSVNgJFbBPiy-lLY-Ot8BUM1dNRjM5SU5GWlM2SlZJMEcwQVhCUU5UOC4u
 
 
 
+## Robonomika
 
 Andrzej Sobczak włożył dużo pracy w przygotowanie kolejnej edycji mapy rozwiązań określanych mianem #HiperAutomatyzacja. Możliwe, że o części z kategorii nawet nie słyszeliście, ale o niektórych usłyszycie wcześniej niż wam się wydaje. Coraz więcej firm rozgląda się za rozwiązaniami, które pozwalają automatyzować wybrane, powtarzalne i czasochłonne procesy, zadania, prace. 
 
@@ -175,7 +194,6 @@ Mapa dostawców HiperAutomatyzacji 2022 - perspektywa światowa i polska | Robon
 https://robonomika.pl/mapa-dostawcow-hiperautomatyzacji-2022-perspektywa-swiatowa-i-polska
 
 
-Konwersatoria.pl
 
 https://robonomika.pl/startuje-nowa-inicjatywa-cykl-konwersatoriow-okragly-stol-demokratyzacji-it-w-skali-enterprise
 
