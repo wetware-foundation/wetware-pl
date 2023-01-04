@@ -158,7 +158,20 @@ Bardzo się cieszymy, że będziesz uczestnikiem naszej cyklicznej konferencji!
 Pozdrawiamy,
 Zespół Wetware.pl
 
+
+
 ## Konwersatoria.pl
+
+
+Inicjatywa wymaga zbudowania szerokiego frontu organizacji skłonnych podejść do siebie na zasadzie współpracy i wzajemnego wsparcia. 
+
+przypomina to inicjatywę, w której brakuje lidera (rozpoznawalnego dostawcy rozwiązań) umiejącego otoczyć się wianuszkiem skutecznych partnerów https://www.linkedin.com/company/the-open-insurance-initiative-opin/  -> wetware.pl
+
+
+przydałaby się fundacja, która nawiąże ciekawe współprace i na ich mocy będzie w stanie odpowiednio animować kolejne działania środowiska - raporty, analizy, PoCe, opracowywanie i dzielenie się dobrymi praktyka oraz osiąganymi, przez członków (firmy) -> konsorcjum33.pl
+
+
+
 
 
 ### Low Code Mastermind Club
