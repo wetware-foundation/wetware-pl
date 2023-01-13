@@ -1,5 +1,8 @@
 # [wetware-pl](https://www.wetware.pl)
 
+
++ [Chat GPT use cases](https://www.wetware.pl/chatgpt.html)
+
 wetware.pl - cotygodniowe spotkania entuzjastów integracji człowieka i maszyn
 
 Oferujemy chętnym zespołoom organizacjom i specjalistom przejście przez te burzliwe i zmienne czasy suchą nogą.
