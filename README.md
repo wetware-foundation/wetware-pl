@@ -1,7 +1,6 @@
 # [wetware-pl](https://www.wetware.pl)
 
-
-+ [Chat GPT use cases](https://www.wetware.pl/chatgpt.html)
++ [tools.wetware.pl](http://tools.wetware.pl)
 
 wetware.pl - cotygodniowe spotkania entuzjastów integracji człowieka i maszyn
 
